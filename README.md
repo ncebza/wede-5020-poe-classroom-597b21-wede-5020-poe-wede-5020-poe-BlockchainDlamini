@@ -38,13 +38,32 @@ Page Load speed: Under 3 seconds on mobile networks
 Aceessability Score: WCAG 2.1 AA complience of 90% 
 
 ## Timeline and Milestones
+Date and Milestone/Task
+11 April 2026: Research
+12 April 2026: Planned the website structure and identified 
+Required pages (Home, About Us, Service, Gallery,
+Contact)
+13 April 2026	Set up project folders in VSCode ( html, images, js and CSS)
+14 April 2026: Created the basic html structure and navigation bar
+Linking all pages
+15 April 2026: Developed the Home page and added initial content
+16 April 2026: Worked on About Us page and Added mission and vision statement
+17 April 2026: Built the Services page and structured service service sections
+Created the Gallery page and added image layout
+Structure
+18 April 2026: Developed the Contact us page and added contact form elements
+19 April 2026: Tested all pages, fixed, errors, and prepared project for submission
 
-Pull this from your project proposal.
 
 ## Sitemap
+![Sitemap](img/sitemap.png)
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
 
 ## References
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+Reference List
+•	Afrihost. (2026). Web hosting plans and pricing
+•	Google. (2026). Google Analytics 4(GA4)-measurement system. Retrieved from https://analytics.google.com
+•	Hertzner South Africa. (2026).Domain and hosting solutions. Retrieved from https://www.hertzner.co.za
+•	South African Department of Health. (2023). National HIV, TB and STI strategic plan 2023-2028. Retrieved from https://www.health.gov.za
+
