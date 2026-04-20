@@ -21,7 +21,21 @@ Target audience:
 •	Community members in Kokosi living with or affected by HIV/AIDS and TB
 
 ## Website Goals and Objective
+Website goals and objectives 
+•	Build a credible professional digital presence that reflects the organization’s values and work.
+•	Provide accessible accurate information on TB, HIV/AIDS, and home-based care services.
+•	Attract and retain donors and grant funders by showcasing impact and transparency.
+•	Enable online volunteer registration and community participation. 
+•	Services as a central information hub for news, events, reports, and resources.
 
+Key Performance Indicators (KPIs)
+KPI and Target/Measure
+Monthly unique visitors: 200 oer month within 6 months of launch
+Donor/Funding inquiries: 3+ inquires per quarter via website
+Volunteer Sign ups: 5+ registration
+Bounce rate: Below 50%
+Page Load speed: Under 3 seconds on mobile networks
+Aceessability Score: WCAG 2.1 AA complience of 90% 
 
 ## Timeline and Milestones
 
