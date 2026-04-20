@@ -7,7 +7,7 @@ Vukani Website
 
 ## Project Overview
 Brief History
-Vukani Care was established in 2000 by a group of 60 community members who identified a serious gap in awareness and support around tuberculosis (TB) and HIV/AIDS in the Kokosi community. From its founding, the organisation prioritized Direct Observe Treatment Short (DOTS) support, community information dissemination, and family empowerment education. Ragoga supports services assisted int the formal programme launches in March 2005, anchored at EXT 4 Sehudi Street No.4267, Kokosi.The programme has since grown significantly. Today,42 members coordinate daily activities covering psychological support, community awareness campaigns, HIV testing services, condom distribution, health education, linkage to care, and Voluntary Medical Male Circumcision {VMMC} outreach.
+Vukani Care was established in 2000 by a group of 60 community members who identified a serious gap in awareness and support around tuberculosis (TB) and HIV/AIDS in the Kokosi community. From its founding, the organisation prioritized Direct Observe Treatment Short (DOTS) support, community information dissemination, and family empowerment education. Ragoga supports services assisted int the formal programme launches in March 2005, anchored at EXT 4 Sehudi Street No.4267, Kokosi.The programme has since grown significantly. Today,42 members coordinate daily activities covering psychological support, community awareness campaigns, HIV testing services, condom distribution, health education, linkage to care, and Voluntary Medical Male Circumcision {VMMC} outreach (South African Department of Health,2023).
 Vision:
 To provide comprehensive home-based care including symptomatic relief, psychological support, and spiritual comfort to patients cared for at home in the Kokosi Community.
 Mission:
@@ -23,10 +23,10 @@ Target audience:
 ## Website Goals and Objective
 Website goals and objectives 
 •	Build a credible professional digital presence that reflects the organization’s values and work.
-•	Provide accessible accurate information on TB, HIV/AIDS, and home-based care services.
+•	Provide accessible accurate information on TB, HIV/AIDS, and home-based care services (Google,2026).
 •	Attract and retain donors and grant funders by showcasing impact and transparency.
 •	Enable online volunteer registration and community participation. 
-•	Services as a central information hub for news, events, reports, and resources.
+•	Services as a central information hub for news, events, reports, and resources(Wordpress.org.2026).
 
 Key Performance Indicators (KPIs)
 KPI and Target/Measure
