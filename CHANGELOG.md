@@ -42,8 +42,6 @@ This project follows Semantic Versioning.
 ## Semantic Versioning
 
 Format: MAJOR.MINOR.PATCH  
-Example: 2.1.3
-
-- MAJOR → Breaking changes (1.0.0 → 2.0.0)  
-- MINOR → New features (1.0.0 → 1.1.0)  
-- PATCH → Bug fixes / small improvements (1.0.0 → 1.0.1)
+- MAJOR → Changed website structure from plain HTML pages to a fully styled multi-page website(1.0.0 → 2.0.0 )
+- MINOR → Added external CSS styling,gallery page, inquriy form, and responsive design(2.0.0 → 2.1.0)  
+- PATCH → Fixed logo distortion, corrected HTML structure,fixed navigation layout, and improved header consistency (2.1.0 → 2.1.1)
