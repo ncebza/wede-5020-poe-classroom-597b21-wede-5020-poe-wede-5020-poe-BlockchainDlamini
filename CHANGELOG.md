@@ -6,7 +6,7 @@ This project follows Semantic Versioning.
 
 ## [1.0.0] 
 ### Added
-- xyz
+Created external CSS stylesheet (styles.css) stylesheet and linked 
 
 ### Changed
 - xyz
